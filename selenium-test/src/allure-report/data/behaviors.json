@@ -1,0 +1,293 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_borrar_correcto",
+    "uid" : "49e33311b452011c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619126461587,
+      "stop" : 1619126467195,
+      "duration" : 5608
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_edit_correcto",
+    "uid" : "9dc8be0d5b43e6c3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619126467197,
+      "stop" : 1619126472867,
+      "duration" : 5670
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_workspace_correcto",
+    "uid" : "7ae26399f5dfd354",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619126472869,
+      "stop" : 1619126488211,
+      "duration" : 15342
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Pruebas de navegar entre carpetas",
+    "children" : [ {
+      "name" : "Test. Entrar en las carpetas.",
+      "children" : [ {
+        "name" : "test_entrar_en_carpeta",
+        "uid" : "7ca059b65ea1cc72",
+        "parentUid" : "dc2b3bb9f30ec15a325d4d08969276c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619126489409,
+          "stop" : 1619126507319,
+          "duration" : 17910
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dc2b3bb9f30ec15a325d4d08969276c3"
+    } ],
+    "uid" : "a54b64e1f875bd8008ba1dc07e8f5b8c"
+  }, {
+    "name" : "Pruebas de vizualizar un documento",
+    "children" : [ {
+      "name" : "Test Cargar la metadata del documento en la visualización.",
+      "children" : [ {
+        "name" : "test_metadata_documento",
+        "uid" : "8dbab8480e647c26",
+        "parentUid" : "3c9007e25c5b631281373a14886685b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619126508515,
+          "stop" : 1619126517280,
+          "duration" : 8765
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3c9007e25c5b631281373a14886685b7"
+    }, {
+      "name" : "Test visualizar documentos.",
+      "children" : [ {
+        "name" : "test_visualizar_documento",
+        "uid" : "b6fee989641f8675",
+        "parentUid" : "81bcc2ad5ad0a126420e5cbf9663df77",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619126517283,
+          "stop" : 1619126545662,
+          "duration" : 28379
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "81bcc2ad5ad0a126420e5cbf9663df77"
+    }, {
+      "name" : "Test Coincidir nombres de documento.",
+      "children" : [ {
+        "name" : "test_visualizar_nom_doc",
+        "uid" : "a670b5b428fb625a",
+        "parentUid" : "df58c9128c498c60ab06d85d7287a461",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619126545665,
+          "stop" : 1619126559428,
+          "duration" : 13763
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df58c9128c498c60ab06d85d7287a461"
+    } ],
+    "uid" : "7a510bdafa2d2974ae8e2d8f18ddee13"
+  }, {
+    "name" : "Test signin",
+    "children" : [ {
+      "name" : "Se realizan validaciones en el signin al entrar en la biblioteca",
+      "children" : [ {
+        "name" : "test_cerrar_sesion",
+        "uid" : "9bb8bf2037adb0c0",
+        "parentUid" : "b8553c7c869ab688a596755a8bd5c560",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619126804335,
+          "stop" : 1619126812220,
+          "duration" : 7885
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_checkbox",
+        "uid" : "e2d671bb678bb88e",
+        "parentUid" : "b8553c7c869ab688a596755a8bd5c560",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1619126812222,
+          "stop" : 1619126820342,
+          "duration" : 8120
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_credenciales_correctas",
+        "uid" : "26e9a5e588e41781",
+        "parentUid" : "b8553c7c869ab688a596755a8bd5c560",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619126820345,
+          "stop" : 1619126830158,
+          "duration" : 9813
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_credenciales_incorrectas",
+        "uid" : "1d17d76851ab4cc3",
+        "parentUid" : "b8553c7c869ab688a596755a8bd5c560",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619126830161,
+          "stop" : 1619126840347,
+          "duration" : 10186
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_elementos_campo_vacio",
+        "uid" : "c703dde8b469b16",
+        "parentUid" : "b8553c7c869ab688a596755a8bd5c560",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619126840350,
+          "stop" : 1619126855476,
+          "duration" : 15126
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pass_olvidada",
+        "uid" : "2316a8250dce0420",
+        "parentUid" : "b8553c7c869ab688a596755a8bd5c560",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1619126855478,
+          "stop" : 1619126862577,
+          "duration" : 7099
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b8553c7c869ab688a596755a8bd5c560"
+    } ],
+    "uid" : "077f80723055f846d3f03b00ab663856"
+  }, {
+    "name" : "Pruebas Carga de documentos 001",
+    "children" : [ {
+      "name" : "Test Borrar documento previsualizado.",
+      "children" : [ {
+        "name" : "test_borrar_documento_previsualizado",
+        "uid" : "204a3bf8149e6242",
+        "parentUid" : "9f584489cb5b9eef86eac2adc3860eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619206671885,
+          "stop" : 1619206704772,
+          "duration" : 32887
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f584489cb5b9eef86eac2adc3860eac"
+    }, {
+      "name" : "Test Boton cargar, sobre campos requeridos.",
+      "children" : [ {
+        "name" : "test_boton_cargar_campos_requeridos",
+        "uid" : "40618a9db699d8bb",
+        "parentUid" : "40e48169a2468c877e6c838d788483fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619206704775,
+          "stop" : 1619206780427,
+          "duration" : 75652
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "40e48169a2468c877e6c838d788483fd"
+    }, {
+      "name" : "Test boton limpiar.",
+      "children" : [ {
+        "name" : "test_boton_limpiar",
+        "uid" : "391a9077972d9a9c",
+        "parentUid" : "a646bb31b028dd1ad414e3758f316f6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619206780429,
+          "stop" : 1619206794735,
+          "duration" : 14306
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a646bb31b028dd1ad414e3758f316f6a"
+    }, {
+      "name" : "Test Cargar documento siguiendo el flujo habitual.",
+      "children" : [ {
+        "name" : "test_carga_exitosa_documento",
+        "uid" : "99b7eefc7b26020e",
+        "parentUid" : "270ff506b32fee70531edbfdc6ea9c84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619206794738,
+          "stop" : 1619206858424,
+          "duration" : 63686
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "270ff506b32fee70531edbfdc6ea9c84"
+    }, {
+      "name" : "Test buscar la carga de documentos en el árbol.",
+      "children" : [ {
+        "name" : "test_mostrar_arbol_cargar_documento",
+        "uid" : "ae054faeb4dd3979",
+        "parentUid" : "209c1f950703dc99e3398e12c9e8b3fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619206858427,
+          "stop" : 1619206866286,
+          "duration" : 7859
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "209c1f950703dc99e3398e12c9e8b3fd"
+    }, {
+      "name" : "Test previsualizar un documento.",
+      "children" : [ {
+        "name" : "test_prev_documento",
+        "uid" : "72d52bf3f77b7284",
+        "parentUid" : "29f03e6036af336386cbd16a0a5b7969",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619206866288,
+          "stop" : 1619206897059,
+          "duration" : 30771
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29f03e6036af336386cbd16a0a5b7969"
+    } ],
+    "uid" : "b3db7ea4c0feafee4ae10c8b19a9fc3e"
+  } ]
+}

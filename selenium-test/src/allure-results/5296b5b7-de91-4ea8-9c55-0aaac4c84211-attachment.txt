@@ -1,0 +1,25 @@
+Directorio base :  O:\physharm\selenium-test\src
+----------------
+CHROME
+----------------
+get_json_file: O:\physharm\selenium-test\src\pages/signin.json
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[1]/div[1]/input[1]
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[1]/div[1]/input[1]
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/input[1]
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/input[1]
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/button[1]
+get_json_file: O:\physharm\selenium-test\src\pages/documents.json
+Esperar_Elemento: se vizualizo el elemento 'Arbol carga documentos'
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[2]
+get_elements: //input[@type='file']
+check_element: Se vizualizo el elemento Esperar nombre documento en previsualizacion
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]
+Se cargó el archivo qa8.PNG
+get_text: No se encontro el elemento: //button[contains(text(),'OK')]
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/*[1]
+check_element: Se vizualizo el elemento Espacio de previsualizacion
+O:\physharm\selenium-test\src\data\capturas/23-04-2021/test_documents_001/CHROME/15h. 01m. 12s//test_documents_001_(15h. 03m. 34s).png
+get_elements: //body/div[2]/div[3]/div[1]
+Text Value : Previsualización
+qa8.PNG
+Se cerrará el DRIVER

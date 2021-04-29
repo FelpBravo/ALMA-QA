@@ -1,0 +1,117 @@
+{
+  "Boton Adminis": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[4]/a[1]/span[1]"
+  },
+  "Crear Workspace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/button[1]"
+  },
+  "Nombre Work": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='name']"
+  },
+  "Tipo espacio": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='mui-component-select-type']"
+  },
+  "Tipo Workspace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='menu-type']/div[3]/ul[1]/li[1]"
+  },
+  "Boton guardar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Guardar')]"
+  },
+  "Tabla Workspace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/table[1]"
+  },
+
+  "Msj Error": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'OK')]"
+  },
+
+  "Seleccionar work": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//th[normalize-space()='Test26']"
+  },
+  "Crear Forum": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/button[1]"
+  },
+  "Nombre forum": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@class='MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense']"
+  },
+  "Tipo espacio2": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='mui-component-select-type']"
+  },
+  "Tipo forum": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='menu-type']/div[3]/ul[1]/li[1]"
+  },
+  "Guardar forum": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Guardar')]"
+  },
+  "Tabla Forum": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tr[@class='MuiTableRow-root MuiTableRow-hover']"
+  },
+  "Crear Folder": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/button[1]"
+  },
+
+  "Nombre carpetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[4]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]"
+  },
+
+  "Tipo espacio3": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='mui-component-select-type']"
+  },
+  "Tipo folder": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='menu-type']/div[3]/ul[1]/li[1]"
+  },
+  "Guardar folder": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Guardar')]"
+  },
+  "Tabla Folder": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//table[@aria-label='a dense table']"
+  },
+  "Edit Workspace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody/tr[1]/td[2]/div[1]/div[1]/*[1]"
+  },
+  "CampoEdit Workspace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='name']"
+  },
+  "CampoGuardar Workspace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Guardar')]"
+  },
+  "BtnEliminar Workspace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody/tr[1]/td[2]/div[1]/div[2]/*[1]"
+  },
+
+  "BtnConfirmar Workspace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'OK')]"
+  },
+
+  "Espacio de carpetas TABLA": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody[@class='MuiTableBody-root']"
+  }
+
+}

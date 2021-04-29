@@ -1,0 +1,45 @@
+Directorio base :  O:\physharm\selenium-test\src
+----------------
+CHROME
+----------------
+get_json_file: O:\physharm\selenium-test\src\pages/signin.json
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[1]/div[1]/input[1]
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[1]/div[1]/input[1]
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/input[1]
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/input[1]
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/button[1]
+get_json_file: O:\physharm\selenium-test\src\pages/documents.json
+Esperar_Elemento: se vizualizo el elemento 'Arbol carga documentos'
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[2]
+O:\physharm\selenium-test\src\data\capturas/23-04-2021/test_documents_001/CHROME/15h. 37m. 51s//test_documents_001_(15h. 38m. 30s).png
+get_text: No se encontro el elemento: //body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[9]/div[1]/div[1]/div[1]/button[2]
+get_text: No se encontro el elemento: //body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[9]/div[1]/div[1]/div[1]/button[2]
+Esperar_Elemento: se vizualizo el elemento 'Seleccionar carpeta'
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/input[1]
+get_json_file: O:\physharm\selenium-test\src\pages/documents.json
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/ul[1]
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[2]/div[2]/div/div/select
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[2]/div[2]/div/div/select/option[3]
+get_elements: //input[@type='file']
+check_element: Se vizualizo el elemento Esperar nombre documento en previsualizacion
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]
+Se cargó el archivo qa10.PNG
+get_text: No se encontro el elemento: //button[contains(text(),'OK')]
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[6]/div/div[2]/div[2]/div/div/input
+get_elements: /html/body/div[5]/div[3]/div/div[2]/div[1]/div/div/ul/div[5]
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[6]/div/div[2]/div[3]/div/div/input
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[6]/div/div[2]/div[3]/div/div/input
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[6]/div/div[4]/div[1]/div/div/input
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[6]/div/div[4]/div[1]/div/div/input
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[6]/div/div[4]/div[3]/div/div/input
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[6]/div/div[4]/div[3]/div/div/input
+get_elements: /html/body/div[1]/div/div/div[3]/main/div/div/div/div/div/form/div[6]/div/div[7]/div[2]/div/div/input
+get_elements: /html/body/div[5]/div[3]/div/div[2]/div[1]/div/div/ul/div[8]
+Fin formulario con campos requeridos
+check_element: Se vizualizo el elemento Boton cargar documento
+get_select_elements: //body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[9]/div[1]/div[1]/div[1]/button[2]
+O:\physharm\selenium-test\src\data\capturas/23-04-2021/test_documents_001/CHROME/15h. 37m. 51s//test_documents_001_(15h. 39m. 37s).png
+check_element: Se vizualizo el elemento Boton cargar documento
+Esperar_Elemento: se vizualizo el elemento 'Boton cargar documento'
+get_elements: //body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[9]/div[1]/div[1]/div[1]/button[2]
+Se cerrará el DRIVER

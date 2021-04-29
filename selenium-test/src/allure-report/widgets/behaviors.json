@@ -1,0 +1,48 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "b3db7ea4c0feafee4ae10c8b19a9fc3e",
+    "name" : "Pruebas Carga de documentos 001",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "7a510bdafa2d2974ae8e2d8f18ddee13",
+    "name" : "Pruebas de vizualizar un documento",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "a54b64e1f875bd8008ba1dc07e8f5b8c",
+    "name" : "Pruebas de navegar entre carpetas",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "077f80723055f846d3f03b00ab663856",
+    "name" : "Test signin",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

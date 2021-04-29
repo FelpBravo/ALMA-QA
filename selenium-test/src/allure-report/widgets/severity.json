@@ -1,0 +1,191 @@
+[ {
+  "uid" : "e2d671bb678bb88e",
+  "name" : "test_checkbox",
+  "time" : {
+    "start" : 1619126812222,
+    "stop" : 1619126820342,
+    "duration" : 8120
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "99b7eefc7b26020e",
+  "name" : "test_carga_exitosa_documento",
+  "time" : {
+    "start" : 1619206794738,
+    "stop" : 1619206858424,
+    "duration" : 63686
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9dc8be0d5b43e6c3",
+  "name" : "test_edit_correcto",
+  "time" : {
+    "start" : 1619126467197,
+    "stop" : 1619126472867,
+    "duration" : 5670
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a670b5b428fb625a",
+  "name" : "test_visualizar_nom_doc",
+  "time" : {
+    "start" : 1619126545665,
+    "stop" : 1619126559428,
+    "duration" : 13763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "391a9077972d9a9c",
+  "name" : "test_boton_limpiar",
+  "time" : {
+    "start" : 1619206780429,
+    "stop" : 1619206794735,
+    "duration" : 14306
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26e9a5e588e41781",
+  "name" : "test_credenciales_correctas",
+  "time" : {
+    "start" : 1619126820345,
+    "stop" : 1619126830158,
+    "duration" : 9813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49e33311b452011c",
+  "name" : "test_borrar_correcto",
+  "time" : {
+    "start" : 1619126461587,
+    "stop" : 1619126467195,
+    "duration" : 5608
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae054faeb4dd3979",
+  "name" : "test_mostrar_arbol_cargar_documento",
+  "time" : {
+    "start" : 1619206858427,
+    "stop" : 1619206866286,
+    "duration" : 7859
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2316a8250dce0420",
+  "name" : "test_pass_olvidada",
+  "time" : {
+    "start" : 1619126855478,
+    "stop" : 1619126862577,
+    "duration" : 7099
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b6fee989641f8675",
+  "name" : "test_visualizar_documento",
+  "time" : {
+    "start" : 1619126517283,
+    "stop" : 1619126545662,
+    "duration" : 28379
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bb8bf2037adb0c0",
+  "name" : "test_cerrar_sesion",
+  "time" : {
+    "start" : 1619126804335,
+    "stop" : 1619126812220,
+    "duration" : 7885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "204a3bf8149e6242",
+  "name" : "test_borrar_documento_previsualizado",
+  "time" : {
+    "start" : 1619206671885,
+    "stop" : 1619206704772,
+    "duration" : 32887
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ca059b65ea1cc72",
+  "name" : "test_entrar_en_carpeta",
+  "time" : {
+    "start" : 1619126489409,
+    "stop" : 1619126507319,
+    "duration" : 17910
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40618a9db699d8bb",
+  "name" : "test_boton_cargar_campos_requeridos",
+  "time" : {
+    "start" : 1619206704775,
+    "stop" : 1619206780427,
+    "duration" : 75652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c703dde8b469b16",
+  "name" : "test_elementos_campo_vacio",
+  "time" : {
+    "start" : 1619126840350,
+    "stop" : 1619126855476,
+    "duration" : 15126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72d52bf3f77b7284",
+  "name" : "test_prev_documento",
+  "time" : {
+    "start" : 1619206866288,
+    "stop" : 1619206897059,
+    "duration" : 30771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d17d76851ab4cc3",
+  "name" : "test_credenciales_incorrectas",
+  "time" : {
+    "start" : 1619126830161,
+    "stop" : 1619126840347,
+    "duration" : 10186
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dbab8480e647c26",
+  "name" : "test_metadata_documento",
+  "time" : {
+    "start" : 1619126508515,
+    "stop" : 1619126517280,
+    "duration" : 8765
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ae26399f5dfd354",
+  "name" : "test_workspace_correcto",
+  "time" : {
+    "start" : 1619126472869,
+    "stop" : 1619126488211,
+    "duration" : 15342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,150 @@
+{
+  "uid" : "c703dde8b469b16",
+  "name" : "test_elementos_campo_vacio",
+  "fullName" : "src.tests.test_login.test_signin.test_signin#test_elementos_campo_vacio",
+  "historyId" : "2a1c1410743047d03cebe08a802232f6",
+  "time" : {
+    "start" : 1619126840350,
+    "stop" : 1619126855476,
+    "duration" : 15126
+  },
+  "description" : "Se requiere validar el signin: </br>\nValidación de campos vacios</br>\nValidación del estado de los botones</br>\nValidación del titulo de la página de signin</br>\nSe trata de ingresar con credenciales similares y erroneas</br>\nSe validan los mensajes de error</br>\nValidacion de funcionalidades de cada elemento de esta página</br>\n</br></br>",
+  "descriptionHtml" : "<p>Se requiere validar el signin: </br>\nValidación de campos vacios</br>\nValidación del estado de los botones</br>\nValidación del titulo de la página de signin</br>\nSe trata de ingresar con credenciales similares y erroneas</br>\nSe validan los mensajes de error</br>\nValidacion de funcionalidades de cada elemento de esta página</br>\n</br></br></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "unittest_setUpClass_fixture_test_signin",
+    "time" : {
+      "start" : 1619126804334,
+      "stop" : 1619126804334,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Se requiere validar el signin: </br>\nValidación de campos vacios</br>\nValidación del estado de los botones</br>\nValidación del titulo de la página de signin</br>\nSe trata de ingresar con credenciales similares y erroneas</br>\nSe validan los mensajes de error</br>\nValidacion de funcionalidades de cada elemento de esta página</br>\n</br></br>",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "PASO 1 : Ingresar al navegador",
+      "time" : {
+        "start" : 1619126840350,
+        "stop" : 1619126842837,
+        "duration" : 2487
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "106d170ec0541902",
+      "name" : "Capos vacios (User y password)",
+      "source" : "106d170ec0541902.png",
+      "type" : "image/png",
+      "size" : 27515
+    }, {
+      "uid" : "16fc516958948f2f",
+      "name" : "Campo contraseña, vacio",
+      "source" : "16fc516958948f2f.png",
+      "type" : "image/png",
+      "size" : 28268
+    }, {
+      "uid" : "2f13458824f330d1",
+      "name" : "Boton 'acceder'",
+      "source" : "2f13458824f330d1.png",
+      "type" : "image/png",
+      "size" : 27643
+    }, {
+      "uid" : "84353e9689969447",
+      "name" : "stdout",
+      "source" : "84353e9689969447.txt",
+      "type" : "text/plain",
+      "size" : 1605
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "unittest_setUpClass_fixture_test_signin::0",
+    "time" : {
+      "start" : 1619126862578,
+      "stop" : 1619126862578,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Se realizan validaciones en el signin al entrar en la biblioteca"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "Test signin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "src.tests.test_login"
+  }, {
+    "name" : "suite",
+    "value" : "test_signin"
+  }, {
+    "name" : "subSuite",
+    "value" : "test_signin"
+  }, {
+    "name" : "host",
+    "value" : "PummA"
+  }, {
+    "name" : "thread",
+    "value" : "26920-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.tests.test_login.test_signin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "aqui pegar la direccion de jira",
+    "url" : "Historia de usuario ALMA 001",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c703dde8b469b16.json",
+  "parameterValues" : [ ]
+}

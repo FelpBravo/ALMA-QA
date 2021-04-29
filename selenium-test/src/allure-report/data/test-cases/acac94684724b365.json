@@ -1,0 +1,117 @@
+{
+  "uid" : "acac94684724b365",
+  "name" : "test_workspace_correcto",
+  "fullName" : "src.tests.test_directory.test_directory_001.test_directory_001#test_workspace_correcto",
+  "historyId" : "c8c2c45d51466d00ae440542ab5cd636",
+  "time" : {
+    "start" : 1619126404129,
+    "stop" : 1619126419534,
+    "duration" : 15405
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "unittest_setUpClass_fixture_test_directory_001",
+    "time" : {
+      "start" : 1619126392886,
+      "stop" : 1619126392886,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7e6b8a609359a8b1",
+      "name" : "Pagina Workspace",
+      "source" : "7e6b8a609359a8b1.png",
+      "type" : "image/png",
+      "size" : 111696
+    }, {
+      "uid" : "d4cab00a657d2856",
+      "name" : "Pagina Forum",
+      "source" : "d4cab00a657d2856.png",
+      "type" : "image/png",
+      "size" : 81710
+    }, {
+      "uid" : "b32e9920d25aafb0",
+      "name" : "Pagina Folder",
+      "source" : "b32e9920d25aafb0.png",
+      "type" : "image/png",
+      "size" : 81934
+    }, {
+      "uid" : "78ce157c19b3cd2a",
+      "name" : "stdout",
+      "source" : "78ce157c19b3cd2a.txt",
+      "type" : "text/plain",
+      "size" : 3194
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "unittest_setUpClass_fixture_test_directory_001::0",
+    "time" : {
+      "start" : 1619126419535,
+      "stop" : 1619126419535,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.tests.test_directory"
+  }, {
+    "name" : "suite",
+    "value" : "test_directory_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "test_directory_001"
+  }, {
+    "name" : "host",
+    "value" : "PummA"
+  }, {
+    "name" : "thread",
+    "value" : "17772-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.tests.test_directory.test_directory_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "acac94684724b365.json",
+  "parameterValues" : [ ]
+}

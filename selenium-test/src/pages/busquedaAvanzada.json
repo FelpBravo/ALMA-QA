@@ -1,0 +1,98 @@
+{
+
+  "Boton busqueda avanzada": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/button[1]"
+  },
+
+  "Boton buscar busqueda avanzada": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/button[1]"
+  },
+
+  "Boton limpiar busqueda avanzada": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/button[1]"
+  },
+
+  "Input TAG": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='TAG']"
+  },
+
+  "Input Doc ID": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:doc_id']"
+  },
+
+  "Input modo seguridad": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:security_mode']"
+  },
+
+  "Input Alma doc number": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:alma_doc_number']"
+  },
+
+  "Input nom documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='cm:name']"
+  },
+
+  "Input creador": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='creator']"
+  },
+
+  "Input version": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='cm:versionLabel']"
+  },
+
+  "Input modificado en": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]"
+  },
+
+  "Input modificado hasta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/input[1]"
+  },
+
+  "Input creado en": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]"
+  },
+
+  "Input creado hasta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/input[1]"
+  },
+
+  "checkbox etiquetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='demo-mutiple-checkbox']"
+  },
+
+  "DIV Buscar por atributo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]"
+  },
+
+  "DIV Buscar por rangos de fecha": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]"
+  },
+
+  "DIV Buscar por etiquetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]"
+  },
+
+  "DIV botones": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]"
+  }
+
+}

@@ -1,0 +1,145 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 22 17:21:01 CLT 2021","Thu Apr 22 17:21:07 CLT 2021","5608","src.tests.test_directory","test_directory_001","test_directory_001","","","test_borrar_correcto",""
+"passed","Fri Apr 23 15:38:24 CLT 2021","Fri Apr 23 15:39:40 CLT 2021","75652","src.tests.test_documents","test_documents_001","test_documents_001","","","test_boton_cargar_campos_requeridos","Se requiere validar la carga de documentos: </br>
+Validación:</br>
+Estado de botones</br>
+Refrescar la pagina al cargar un documento</br>
+Seguir el flujo habitual al cargar un documento</br>
+Obtener AlamaID y el nombre del documento cargado</br>
+Campos requeridos</br>
+Previsualizacion documentos</br>
+Borrar documento precargado</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"passed","Thu Apr 22 17:27:10 CLT 2021","Thu Apr 22 17:27:20 CLT 2021","10186","src.tests.test_login","test_signin","test_signin","","","test_credenciales_incorrectas","Se requiere validar el signin: </br>
+Validación de campos vacios</br>
+Validación del estado de los botones</br>
+Validación del titulo de la página de signin</br>
+Se trata de ingresar con credenciales similares y erroneas</br>
+Se validan los mensajes de error</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"passed","Thu Apr 22 17:21:48 CLT 2021","Thu Apr 22 17:21:57 CLT 2021","8765","src.tests.test_directory_grid","test_visualizar_001","test_visualizar_001","","","test_metadata_documento","Se requiere validar la información general del documento: </br>
+Validación:</br>
+Ingresar a la vizualización del documento</br>
+Nombre del documento visualizado vs Nombre del documento en la grilla</br>
+Permitir visualizar la metadata del documento</br>
+Titulo metadata</br>
+</br></br>"
+"passed","Fri Apr 23 15:40:58 CLT 2021","Fri Apr 23 15:41:06 CLT 2021","7859","src.tests.test_documents","test_documents_001","test_documents_001","","","test_mostrar_arbol_cargar_documento","Se requiere validar la carga de documentos: </br>
+Validación:</br>
+Estado de botones</br>
+Refrescar la pagina al cargar un documento</br>
+Seguir el flujo habitual al cargar un documento</br>
+Obtener AlamaID y el nombre del documento cargado</br>
+Campos requeridos</br>
+Previsualizacion documentos</br>
+Borrar documento precargado</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"passed","Fri Apr 23 15:39:54 CLT 2021","Fri Apr 23 15:40:58 CLT 2021","63686","src.tests.test_documents","test_documents_001","test_documents_001","","","test_carga_exitosa_documento","Se requiere validar la carga de documentos: </br>
+Validación:</br>
+Estado de botones</br>
+Refrescar la pagina al cargar un documento</br>
+Seguir el flujo habitual al cargar un documento</br>
+Obtener AlamaID y el nombre del documento cargado</br>
+Campos requeridos</br>
+Previsualizacion documentos</br>
+Borrar documento precargado</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"passed","Thu Apr 22 17:21:07 CLT 2021","Thu Apr 22 17:21:12 CLT 2021","5670","src.tests.test_directory","test_directory_001","test_directory_001","","","test_edit_correcto",""
+"passed","Thu Apr 22 17:22:25 CLT 2021","Thu Apr 22 17:22:39 CLT 2021","13763","src.tests.test_directory_grid","test_visualizar_001","test_visualizar_001","","","test_visualizar_nom_doc","Se requiere validar la información general del documento: </br>
+Validación:</br>
+Ingresar a la vizualización del documento</br>
+Nombre del documento visualizado vs Nombre del documento en la grilla</br>
+Permitir visualizar la metadata del documento</br>
+Titulo metadata</br>
+</br></br>"
+"passed","Fri Apr 23 15:37:51 CLT 2021","Fri Apr 23 15:38:24 CLT 2021","32887","src.tests.test_documents","test_documents_001","test_documents_001","","","test_borrar_documento_previsualizado","Se requiere validar la carga de documentos: </br>
+Validación:</br>
+Estado de botones</br>
+Refrescar la pagina al cargar un documento</br>
+Seguir el flujo habitual al cargar un documento</br>
+Obtener AlamaID y el nombre del documento cargado</br>
+Campos requeridos</br>
+Previsualizacion documentos</br>
+Borrar documento precargado</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"passed","Thu Apr 22 17:26:44 CLT 2021","Thu Apr 22 17:26:52 CLT 2021","7885","src.tests.test_login","test_signin","test_signin","","","test_cerrar_sesion","Se requiere validar el signin: </br>
+Validación de campos vacios</br>
+Validación del estado de los botones</br>
+Validación del titulo de la página de signin</br>
+Se trata de ingresar con credenciales similares y erroneas</br>
+Se validan los mensajes de error</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"skipped","Thu Apr 22 17:27:35 CLT 2021","Thu Apr 22 17:27:42 CLT 2021","7099","src.tests.test_login","test_signin","test_signin","","","test_pass_olvidada","Se requiere validar el signin: </br>
+Validación de campos vacios</br>
+Validación del estado de los botones</br>
+Validación del titulo de la página de signin</br>
+Se trata de ingresar con credenciales similares y erroneas</br>
+Se validan los mensajes de error</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"passed","Thu Apr 22 17:27:20 CLT 2021","Thu Apr 22 17:27:35 CLT 2021","15126","src.tests.test_login","test_signin","test_signin","","","test_elementos_campo_vacio","Se requiere validar el signin: </br>
+Validación de campos vacios</br>
+Validación del estado de los botones</br>
+Validación del titulo de la página de signin</br>
+Se trata de ingresar con credenciales similares y erroneas</br>
+Se validan los mensajes de error</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"passed","Fri Apr 23 15:39:40 CLT 2021","Fri Apr 23 15:39:54 CLT 2021","14306","src.tests.test_documents","test_documents_001","test_documents_001","","","test_boton_limpiar","Se requiere validar la carga de documentos: </br>
+Validación:</br>
+Estado de botones</br>
+Refrescar la pagina al cargar un documento</br>
+Seguir el flujo habitual al cargar un documento</br>
+Obtener AlamaID y el nombre del documento cargado</br>
+Campos requeridos</br>
+Previsualizacion documentos</br>
+Borrar documento precargado</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"skipped","Thu Apr 22 17:26:52 CLT 2021","Thu Apr 22 17:27:00 CLT 2021","8120","src.tests.test_login","test_signin","test_signin","","","test_checkbox","Se requiere validar el signin: </br>
+Validación de campos vacios</br>
+Validación del estado de los botones</br>
+Validación del titulo de la página de signin</br>
+Se trata de ingresar con credenciales similares y erroneas</br>
+Se validan los mensajes de error</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"passed","Thu Apr 22 17:21:29 CLT 2021","Thu Apr 22 17:21:47 CLT 2021","17910","src.tests.test_directory_grid","test_carpetas_001","test_carpetas_001","","","test_entrar_en_carpeta","Se requiere validar el ingresar en una carpeta: </br>
+Validación:</br>
+Ingresar a a una carpeta</br>
+Invisibilidad de todo mensaje de error</br>
+Carpeta clickable</br>
+</br></br>"
+"passed","Thu Apr 22 17:21:57 CLT 2021","Thu Apr 22 17:22:25 CLT 2021","28379","src.tests.test_directory_grid","test_visualizar_001","test_visualizar_001","","","test_visualizar_documento","Se requiere validar la información general del documento: </br>
+Validación:</br>
+Ingresar a la vizualización del documento</br>
+Nombre del documento visualizado vs Nombre del documento en la grilla</br>
+Permitir visualizar la metadata del documento</br>
+Titulo metadata</br>
+</br></br>"
+"passed","Thu Apr 22 17:27:00 CLT 2021","Thu Apr 22 17:27:10 CLT 2021","9813","src.tests.test_login","test_signin","test_signin","","","test_credenciales_correctas","Se requiere validar el signin: </br>
+Validación de campos vacios</br>
+Validación del estado de los botones</br>
+Validación del titulo de la página de signin</br>
+Se trata de ingresar con credenciales similares y erroneas</br>
+Se validan los mensajes de error</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"
+"passed","Thu Apr 22 17:21:12 CLT 2021","Thu Apr 22 17:21:28 CLT 2021","15342","src.tests.test_directory","test_directory_001","test_directory_001","","","test_workspace_correcto",""
+"passed","Fri Apr 23 15:41:06 CLT 2021","Fri Apr 23 15:41:37 CLT 2021","30771","src.tests.test_documents","test_documents_001","test_documents_001","","","test_prev_documento","Se requiere validar la carga de documentos: </br>
+Validación:</br>
+Estado de botones</br>
+Refrescar la pagina al cargar un documento</br>
+Seguir el flujo habitual al cargar un documento</br>
+Obtener AlamaID y el nombre del documento cargado</br>
+Campos requeridos</br>
+Previsualizacion documentos</br>
+Borrar documento precargado</br>
+Validacion de funcionalidades de cada elemento de esta página</br>
+</br></br>"

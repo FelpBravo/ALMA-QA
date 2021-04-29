@@ -1,0 +1,123 @@
+{
+
+  "Espacio de carpetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/ul[1]"
+  },
+
+  "Primera carpeta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@class='MuiTypography-root MuiTreeItem-label MuiTypography-body1']"
+  },
+
+  "Segunda carpeta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/div[1]/div[2]/div[1]/p[1]"
+  },
+
+  "Tercera carpeta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/div[1]/div[2]/div[1]/p[1]"
+  },
+
+  "Primer documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody/tr[1]"
+  },
+
+  "Nombre primer documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody/tr[1]/td[1]/span[1]"
+  },
+
+  "Visualizar primer documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody/tr[1]/td[8]/div[1]/div[1]"
+  },
+
+  "Campo metadata documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]/div[1]/div[1]/div[1]"
+  },
+
+  "Todo el campo visualizar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+
+  "Todo el campo nombre carpeta en metadata": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h3[1]/div[1]/div[1]/nav[1]/ol[1]/li[3]"
+  },
+
+  "Ingresar a compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody/tr[1]/td[8]/div[1]/div[6]/*[1]"
+  },
+
+  "Todo el campo compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[4]/div[3]/div[1]"
+  },
+
+  "Campo fecha compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@class='MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense']"
+  },
+
+  "Campo password compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='password']"
+  },
+
+  "checkbox sin password": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@type='checkbox']"
+  },
+
+  "Boton crear al compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Crear')]"
+  },
+
+  "Nombre documento en compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@role='dialog']"
+  },
+
+  "Nombre documento en enlace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h5[@class='jss5']"
+  },
+
+  "Campo password enlace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='password']"
+  },
+
+  "Boton enviar al ingresar password": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/div[1]/div[3]/button[1]"
+  },
+
+  "Boton descargar documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@type='button']"
+  },
+
+  "nombre documento en enlace descarga": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+
+  "Generar enlace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@select='true']"
+  },
+
+  "Msj Error": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[5]"
+  }
+
+}

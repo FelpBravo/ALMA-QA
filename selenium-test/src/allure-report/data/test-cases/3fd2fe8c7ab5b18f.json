@@ -1,0 +1,208 @@
+{
+  "uid" : "3fd2fe8c7ab5b18f",
+  "name" : "test_boton_limpiar",
+  "fullName" : "src.tests.test_documents.test_documents_001.test_documents_001#test_boton_limpiar",
+  "historyId" : "06ae9a34e05759a778daa6198e497025",
+  "time" : {
+    "start" : 1619204557009,
+    "stop" : 1619204571331,
+    "duration" : 14322
+  },
+  "description" : "Se requiere validar la carga de documentos: </br>\nValidación:</br>\nEstado de botones</br>\nRefrescar la pagina al cargar un documento</br>\nSeguir el flujo habitual al cargar un documento</br>\nObtener AlamaID y el nombre del documento cargado</br>\nCampos requeridos</br>\nPrevisualizacion documentos</br>\nBorrar documento precargado</br>\nValidacion de funcionalidades de cada elemento de esta página</br>\n</br></br>",
+  "descriptionHtml" : "<p>Se requiere validar la carga de documentos: </br>\nValidación:</br>\nEstado de botones</br>\nRefrescar la pagina al cargar un documento</br>\nSeguir el flujo habitual al cargar un documento</br>\nObtener AlamaID y el nombre del documento cargado</br>\nCampos requeridos</br>\nPrevisualizacion documentos</br>\nBorrar documento precargado</br>\nValidacion de funcionalidades de cada elemento de esta página</br>\n</br></br></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "unittest_setUpClass_fixture_test_documents_001",
+    "time" : {
+      "start" : 1619204472377,
+      "stop" : 1619204472377,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Se requiere validar la carga de documentos: </br>\nValidación:</br>\nEstado de botones</br>\nRefrescar la pagina al cargar un documento</br>\nSeguir el flujo habitual al cargar un documento</br>\nObtener AlamaID y el nombre del documento cargado</br>\nCampos requeridos</br>\nPrevisualizacion documentos</br>\nBorrar documento precargado</br>\nValidacion de funcionalidades de cada elemento de esta página</br>\n</br></br>",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "PASO 1 : Ingresar al navegador",
+      "time" : {
+        "start" : 1619204557009,
+        "stop" : 1619204559962,
+        "duration" : 2953
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "PASO 2 : Ingresar con el usuario Juan Suaza",
+      "time" : {
+        "start" : 1619204559962,
+        "stop" : 1619204560210,
+        "duration" : 248
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "PASO 3 : Ingresar a la carga de documentos",
+      "time" : {
+        "start" : 1619204560210,
+        "stop" : 1619204560517,
+        "duration" : 307
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "PASO 3 : Rellenado solo las etiquetas, hacer click en el boton limpiar",
+      "time" : {
+        "start" : 1619204560517,
+        "stop" : 1619204563904,
+        "duration" : 3387
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2fdf8b7eadf6ad4f",
+        "name" : "Seleccion de etiquetas",
+        "source" : "2fdf8b7eadf6ad4f.png",
+        "type" : "image/png",
+        "size" : 74953
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "PASO 4 : Validar el resultado del boton limpiar",
+      "time" : {
+        "start" : 1619204563904,
+        "stop" : 1619204569248,
+        "duration" : 5344
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8521ae27f65048ac",
+        "name" : "Accion del boton LIMPIAR campos",
+        "source" : "8521ae27f65048ac.png",
+        "type" : "image/png",
+        "size" : 62379
+      }, {
+        "uid" : "b17dbd5f51e73acd",
+        "name" : "Seleccion de etiquetas",
+        "source" : "b17dbd5f51e73acd.png",
+        "type" : "image/png",
+        "size" : 76450
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "aa7fd6c142132b0c",
+      "name" : "stdout",
+      "source" : "aa7fd6c142132b0c.txt",
+      "type" : "text/plain",
+      "size" : 2394
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "hasContent" : true,
+    "stepsCount" : 5
+  },
+  "afterStages" : [ {
+    "name" : "unittest_setUpClass_fixture_test_documents_001::0",
+    "time" : {
+      "start" : 1619204617042,
+      "stop" : 1619204617042,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Pruebas Carga de documentos 001"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "Test boton limpiar."
+  }, {
+    "name" : "parentSuite",
+    "value" : "src.tests.test_documents"
+  }, {
+    "name" : "suite",
+    "value" : "test_documents_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "test_documents_001"
+  }, {
+    "name" : "host",
+    "value" : "PummA"
+  }, {
+    "name" : "thread",
+    "value" : "21608-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.tests.test_documents.test_documents_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "dirección de jira",
+    "url" : "Historia de usuario Carga de documentos",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3fd2fe8c7ab5b18f.json",
+  "parameterValues" : [ ]
+}

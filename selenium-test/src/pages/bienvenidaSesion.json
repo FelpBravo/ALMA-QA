@@ -1,0 +1,23 @@
+{
+
+  "Nombre perfil": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//header/div[1]/ul[1]/li[2]/div[1]/div[2]/h4[1]/span[1]"
+  },
+
+  "Boton opciones Perfil": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//header/div[1]/ul[1]/li[2]/div[1]/div[2]/h4[1]/i[1]"
+  },
+
+  "Boton cerrar sesion": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='simple-menu']/div[3]/ul[1]/li[1]"
+  },
+
+  "Pagina de inicio": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//header/div[1]/ul[1]/li[2]/div[1]/div[2]/h4[1]/i[1]"
+  }
+
+}

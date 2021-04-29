@@ -1,0 +1,23 @@
+{
+
+  "Input busqueda simple": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='inputSearch']"
+  },
+
+  "Msj Error": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@class='swal2-popup swal2-modal swal2-icon-error swal2-show']"
+  },
+
+  "Grilla": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/table[1]"
+  },
+
+  "Boton busqueda simple": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[2]/button[1]"
+  }
+
+}

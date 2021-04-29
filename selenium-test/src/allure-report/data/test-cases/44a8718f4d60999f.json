@@ -1,0 +1,202 @@
+{
+  "uid" : "44a8718f4d60999f",
+  "name" : "test_borrar_documento_previsualizado",
+  "fullName" : "src.tests.test_documents.test_documents_001.test_documents_001#test_borrar_documento_previsualizado",
+  "historyId" : "a2b799680a2406d8922521e58c69c4e0",
+  "time" : {
+    "start" : 1619204472380,
+    "stop" : 1619204505917,
+    "duration" : 33537
+  },
+  "description" : "Se requiere validar la carga de documentos: </br>\nValidación:</br>\nEstado de botones</br>\nRefrescar la pagina al cargar un documento</br>\nSeguir el flujo habitual al cargar un documento</br>\nObtener AlamaID y el nombre del documento cargado</br>\nCampos requeridos</br>\nPrevisualizacion documentos</br>\nBorrar documento precargado</br>\nValidacion de funcionalidades de cada elemento de esta página</br>\n</br></br>",
+  "descriptionHtml" : "<p>Se requiere validar la carga de documentos: </br>\nValidación:</br>\nEstado de botones</br>\nRefrescar la pagina al cargar un documento</br>\nSeguir el flujo habitual al cargar un documento</br>\nObtener AlamaID y el nombre del documento cargado</br>\nCampos requeridos</br>\nPrevisualizacion documentos</br>\nBorrar documento precargado</br>\nValidacion de funcionalidades de cada elemento de esta página</br>\n</br></br></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "unittest_setUpClass_fixture_test_documents_001",
+    "time" : {
+      "start" : 1619204472377,
+      "stop" : 1619204472377,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Se requiere validar la carga de documentos: </br>\nValidación:</br>\nEstado de botones</br>\nRefrescar la pagina al cargar un documento</br>\nSeguir el flujo habitual al cargar un documento</br>\nObtener AlamaID y el nombre del documento cargado</br>\nCampos requeridos</br>\nPrevisualizacion documentos</br>\nBorrar documento precargado</br>\nValidacion de funcionalidades de cada elemento de esta página</br>\n</br></br>",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "PASO 1 : Ingresar al navegador",
+      "time" : {
+        "start" : 1619204472380,
+        "stop" : 1619204475317,
+        "duration" : 2937
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "PASO 2 : Ingresar con el usuario Juan Suaza",
+      "time" : {
+        "start" : 1619204475317,
+        "stop" : 1619204475620,
+        "duration" : 303
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "PASO 3 : Ingresar a la carga de documentos",
+      "time" : {
+        "start" : 1619204475620,
+        "stop" : 1619204475887,
+        "duration" : 267
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "PASO 3 : Precargar un documento y borrarlo",
+      "time" : {
+        "start" : 1619204475887,
+        "stop" : 1619204501100,
+        "duration" : 25213
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "953c28e8f109788e",
+        "name" : "Documento precargado",
+        "source" : "953c28e8f109788e.png",
+        "type" : "image/png",
+        "size" : 72029
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "PASO 4 : Validar que el documento no permanesca en la carga de documentos",
+      "time" : {
+        "start" : 1619204501100,
+        "stop" : 1619204503795,
+        "duration" : 2695
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "40100129e3048160",
+        "name" : "Documento precargado eliminado",
+        "source" : "40100129e3048160.png",
+        "type" : "image/png",
+        "size" : 61852
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "770f5f6642033ea6",
+      "name" : "stdout",
+      "source" : "770f5f6642033ea6.txt",
+      "type" : "text/plain",
+      "size" : 2104
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "hasContent" : true,
+    "stepsCount" : 5
+  },
+  "afterStages" : [ {
+    "name" : "unittest_setUpClass_fixture_test_documents_001::0",
+    "time" : {
+      "start" : 1619204617042,
+      "stop" : 1619204617042,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Pruebas Carga de documentos 001"
+  }, {
+    "name" : "story",
+    "value" : "Test Borrar documento previsualizado."
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "parentSuite",
+    "value" : "src.tests.test_documents"
+  }, {
+    "name" : "suite",
+    "value" : "test_documents_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "test_documents_001"
+  }, {
+    "name" : "host",
+    "value" : "PummA"
+  }, {
+    "name" : "thread",
+    "value" : "21608-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.tests.test_documents.test_documents_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "dirección de jira",
+    "url" : "Historia de usuario Carga de documentos",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44a8718f4d60999f.json",
+  "parameterValues" : [ ]
+}
