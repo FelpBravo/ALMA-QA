@@ -1,0 +1,12 @@
+{
+
+  "Button": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@id='app-site']/div/div/div[2]/div/header/div/ul/li[2]/div/span/button"
+  },
+
+  "titulo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h3[contains(text(),'Notificaciones')]"
+  }
+}

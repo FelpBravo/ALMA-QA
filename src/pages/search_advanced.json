@@ -1,0 +1,93 @@
+{
+
+  "busqueda avanzada": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/*[1]"
+  },
+
+  "Panel de inicio": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Panel de inicio')]"
+  },
+
+  "etiquetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='TAG']"
+  },
+
+  "nombre documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='cm:name']"
+  },
+
+  "doc id": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:doc_id']"
+  },
+
+  "autor": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='creator']"
+  },
+
+  "security mode": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:security_mode']"
+  },
+
+  "version": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='cm:versionLabel']"
+  },
+
+  "alma doc number": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:alma_doc_number']"
+  },
+
+  "peso del archivo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='content.size']"
+  },
+
+  "modificado en": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]"
+  },
+
+  "modificado hasta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/input[1]"
+  },
+
+  "creado en": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]"
+  },
+
+  "creado hasta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/input[1]"
+  },
+
+  "limpiar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='background-color: rgb(225, 240, 255); color: rgb(54, 153, 255); font-family: Poppins; font-size: 12px; font-weight: 600; border: none; box-shadow: none; height: 45px; width: 120px;']"
+  },
+
+  "buscar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='font-family: Poppins; font-size: 12px; font-weight: 600; border: none; box-shadow: none; height: 45px; width: 120px;']"
+  },
+
+  "inicio": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]"
+  },
+
+  "nextPage": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@aria-label='Go to next page']"
+  }
+
+}

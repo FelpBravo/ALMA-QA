@@ -1,0 +1,247 @@
+{
+
+  "Carga documentos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Carga documentos')]"
+  },
+
+  "Seleccionar carpeta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='folderName']"
+  },
+
+  "Elegir carpeta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//ul[@class='MuiList-root MuiList-padding']"
+  },
+
+  "Arbol de directorios": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//ul[@role='tree']"
+  },
+
+  "documento controlado": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='controlled_document']"
+  },
+
+  "nuevos elementos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@class='MuiPaper-root MuiStepper-root MuiStepper-horizontal MuiStepper-alternativeLabel MuiPaper-elevation0']"
+  },
+
+  "Seleccionar primera carpeta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div/span[contains(text(),'Juan')]"
+  },
+
+  "Toda la carga de documentos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]"
+  },
+
+  "Seleccionar documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@type='file']"
+  },
+
+  "boton de cargar doc": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'Seleccionar documentos')]"
+  },
+
+  "Seleccionar ICD/NO": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='mui-component-select-documentsType']"
+  },
+
+  "Opcion NoICD": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='menu-documentsType']/div[3]/ul[1]/li[1]"
+  },
+
+  "Area de carga documentos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@class='drop-down']"
+  },
+
+  "nombre documento en previsualizacion": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[@class='sc-hKFxyN kksiKu']"
+  },
+
+  "Seleccionar previsualizacion": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/*[1]"
+  },
+
+  "Espacio de previsualizacion": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/div[1]"
+  },
+
+  "Borrar documento precargado": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+
+  "Error documento repetido": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[5]"
+  },
+
+  "Error boton OK": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'OK')]"
+  },
+
+  "Campo almaDoc": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:alma_doc_number']"
+  },
+
+  "Campo projectCode": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:project_code']"
+  },
+
+  "Campo date": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='date-picker-dialog']"
+  },
+
+  "Campo modifiedBy": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:modified_by']"
+  },
+
+  "Campo org": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:organization']"
+  },
+
+  "Campo ownerName": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:owner_name']"
+  },
+
+  "Campo subject": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:subject']"
+  },
+
+  "Campo fielType": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:file_type']"
+  },
+
+  "Campo author": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:author']"
+  },
+  "Campo docStatus": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:documentation_status']"
+  },
+
+  "Campo control board": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:ccb']"
+  },
+
+  "Campo system": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:system_subsystem']"
+  },
+
+  "Campo secMode": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:security_mode']"
+  },
+
+  "Campo releaseBy": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:released_by']"
+  },
+
+  "Campo docId": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:doc_id']"
+  },
+
+  "Campo forumId": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:forum_id']"
+  },
+
+  "Campo docType": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:document_type']"
+  },
+
+  "Campo approvedBy": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:approved_by']"
+  },
+
+  "Campo revBy": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:reviewed_by']"
+  },
+
+  "Campo group": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:group_area']"
+  },
+
+  "Campo docAbs": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:document_abstract']"
+  },
+
+  "Etiquetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//label[@id='tagsField-label']"
+  },
+
+  "Limpiar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained']"
+  },
+
+  "Cargar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@type='submit']"
+  },
+
+  "Boton confirmar cargar documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'OK')]"
+  },
+
+  "Boton cancelar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'Cancel')]"
+  },
+
+  "Generacion de AlmaID": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[5]"
+  },
+
+  "Imagen doc cargado": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/img[1]"
+  },
+
+  "Panel de inicio": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Panel de inicio')]"
+  },
+
+  "AlmaID y nombreDoc": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='swal2-content']"
+  }
+
+}

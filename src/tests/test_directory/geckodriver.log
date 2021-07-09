@@ -1,0 +1,10 @@
+1619227076651	geckodriver	INFO	Listening on 127.0.0.1:14573
+1619227079729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pipe_\\AppData\\Local\\Temp\\rust_mozprofilea8fInT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619227082274	Marionette	INFO	Listening on port 14585
+1619227082427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619227085489	Marionette	INFO	Stopped listening on port 14585
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+

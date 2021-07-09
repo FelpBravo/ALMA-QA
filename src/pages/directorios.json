@@ -1,0 +1,117 @@
+{
+  "Menu administracion": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Administraci')]"
+  },
+
+  "Menu directorios": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Directorios')]"
+  },
+
+  "Directorios existentes": {
+    "GetFieldBy": "name",
+    "ValueToFind": "tr"
+  },
+
+  "Directorios existentes create": {
+    "GetFieldBy": "name",
+    "ValueToFind": "th"
+  },
+
+  "guardar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Guardar')]"
+  },
+
+  "cancelar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Cancelar')]"
+  },
+
+  "cancel": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'Cancel')]"
+  },
+
+  "Crear nuevo directorio": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'Crear nuevo directorio')]"
+  },
+
+  "tipo espacio trabajo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='mui-component-select-type']"
+  },
+
+  "workspace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//li[contains(text(),'workspace')]"
+  },
+
+  "forum": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//li[contains(text(),'forum')]"
+  },
+
+  "folder": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//li[contains(text(),'folder')]"
+  },
+
+  "heredar permisos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@type='checkbox']"
+  },
+
+  "seleccionar grupo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='mui-component-select-groups']"
+  },
+
+  "input grupo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='groups']"
+  },
+
+  "nombre": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='name']"
+  },
+
+  "Boton OK": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//button[contains(text(),'OK')]"
+  },
+
+  "miga General": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//a[contains(text(),'General')]"
+  },
+
+  "miga Carpeta": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/nav[1]/ol[1]/li[3]/p[1]"
+  },
+
+  "modal eliminar": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//div[@role='dialog']"
+  },
+
+  "dialogo": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//div[@aria-labelledby='form-dialog-title']"
+  },
+
+  "tabla": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//table[@class='MuiTable-root']"
+  },
+
+  "Msj validacion nombre": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//span[@class='text-danger text-error']"
+  }
+
+}

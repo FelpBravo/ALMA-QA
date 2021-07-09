@@ -1,0 +1,173 @@
+{
+
+  "Button Siguiente": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@type='submit']"
+  },
+
+  "nuevos elementos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@class='MuiPaper-root MuiStepper-root MuiStepper-horizontal MuiStepper-alternativeLabel MuiPaper-elevation0']"
+  },
+
+  "titulo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h3[contains(text(),'Solicitud de revisi')]"
+  },
+
+  "button 1": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[3]/div/div[1]/div[2]/button"
+  },
+
+  "button 2": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[4]/div/div[1]/div[2]/button"
+  },
+
+  "button 3": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[5]/div/div[1]/div[2]/button"
+  },
+
+  "button 4": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[6]/div/div[1]/div[2]/button"
+  },
+
+  "button 5": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[7]/div/div[1]/div[2]/button"
+  },
+
+  "button 6": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[8]/div/div[1]/div[2]/button"
+  },
+
+  "basurero 1": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[3]/div/div[2]/div[1]/div[5]/button[@aria-label='delete']"
+  },
+
+  "basurero 2": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[3]/div/div[2]/div[2]/div[5]/button[@aria-label='delete']"
+  },
+
+  "Input nombre owner": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[0].users[0].userId']"
+  },
+
+  "Input dias owner": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[0].users[0].maxDays']"
+  },
+
+  "Input comentario owner": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[0].users[0].comment']"
+  },
+
+   "Input nombre coAutor": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[1].users[0].userId']"
+  },
+
+  "Input dias coAutor": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[1].users[0].maxDays']"
+  },
+
+  "Input comentario coAutor": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[1].users[0].comment']"
+  },
+
+   "Input nombre Stakeholder": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[2].users[0].userId']"
+  },
+
+  "Input dias Stakeholder": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[2].users[0].maxDays']"
+  },
+
+  "Input comentario Stakeholder": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[2].users[0].comment']"
+  },
+
+   "Input nombre Reviewed": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[3].users[0].userId']"
+  },
+
+  "Input dias Reviewed": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[3].users[0].maxDays']"
+  },
+
+  "Input comentario Reviewed": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[3].users[0].comment']"
+  },
+
+   "Input nombre Approved": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[4].users[0].userId']"
+  },
+
+  "Input dias Approved": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[4].users[0].maxDays']"
+  },
+
+  "Input comentario Approved": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[4].users[0].comment']"
+  },
+
+  "Input nombre released": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[5].users[0].userId']"
+  },
+
+  "Input dias released": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[5].users[0].maxDays']"
+  },
+
+  "Input comentario released": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='approves[5].users[0].comment']"
+  },
+
+  "textbox": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//textarea[@name='comment']"
+  },
+
+  "cancelar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='background-color: rgb(225, 240, 255); color: rgb(54, 153, 255); font-family: Poppins; font-size: 12px; font-weight: 500; border: none; box-shadow: none; height: 45px; width: 120px;']"
+  },
+
+  "confirmar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='font-family: Poppins; font-size: 12px; font-weight: 500; border: none; box-shadow: none; height: 45px; width: 120px;']"
+  },
+
+  "modal resumen": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@role='none presentation']"
+  },
+
+  "button Ok": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'OK')]"
+  }
+
+}

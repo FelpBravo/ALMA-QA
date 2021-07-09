@@ -1,0 +1,28 @@
+{
+
+  "Eliminar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/ul[1]/li[2]/span[1]"
+  },
+
+  "h2 Eliminar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h2[@id='swal2-title']"
+  },
+
+  "div pregunta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='swal2-content']"
+  },
+
+  "OK": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'OK')]"
+  },
+
+  "Cancel": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'Cancel')]"
+  }
+
+}

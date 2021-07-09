@@ -1,0 +1,38 @@
+{
+
+  "grilla": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody"
+  },
+
+  "Miga": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h3[1]/div[1]/div[1]/nav[1]/ol[1]"
+  },
+
+  "Informacion general": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@id='simple-tab-0']"
+  },
+
+  "Comentarios": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@id='simple-tab-1']"
+  },
+
+  "Documentos adjuntos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@id='simple-tab-2']"
+  },
+
+  "metadata": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]/div[1]/div[1]/div[1]"
+  },
+
+  "Imagen en metadata": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/object[1]"
+  }
+
+}

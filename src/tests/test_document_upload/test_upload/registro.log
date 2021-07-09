@@ -1,0 +1,143 @@
+INFO:root:Se visualiza toda la metadata
+ERROR:root:Se visualiza toda la metadata
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:alma_doc_number']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1147
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//div[@name='mc:project_code']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1144
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='date-picker-dialog']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1147
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:modified_by']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1143
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//div[@name='mc:organization']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1144
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:owner_name']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1142
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:subject']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1139
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:file_type']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1141
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:author']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1138
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//div[@name='mc:documentation_status']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1152
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:ccb' OTRO]"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 400 1416
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:system_subsystem']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1148
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:security_mode']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1145
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:released_by']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1143
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:doc_id']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1138
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:forum_id']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1140
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//div[@name='mc:document_type']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1145
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:approved_by']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1143
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:reviewed_by']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1143
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:group_area']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1142
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e/element {"using": "xpath", "value": "//input[@id='mc:document_abstract']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "POST /session/5b567c1e10b707d0072daece2efea83e/element HTTP/1.1" 404 1149
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+INFO:root:Correcto, no se visualiza la metadata
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:7504/session/5b567c1e10b707d0072daece2efea83e {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:7504 "DELETE /session/5b567c1e10b707d0072daece2efea83e HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+ERROR:root:No se visualiza la metadata
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:alma_doc_number']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1147
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//div[@name='mc:project_code']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1144
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='date-picker-dialog']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1147
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:modified_by']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1143
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//div[@name='mc:organization']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1144
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:owner_name']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1142
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:subject']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1139
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:file_type']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1141
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:author']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1138
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//div[@name='mc:documentation_status']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1152
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:ccb' OTRO]"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 400 1416
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:system_subsystem']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1148
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:security_mode']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1145
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:released_by']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1143
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:doc_id']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1138
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:forum_id']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1140
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//div[@name='mc:document_type']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1145
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:approved_by']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1143
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:reviewed_by']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1143
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:group_area']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1142
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5/element {"using": "xpath", "value": "//input[@id='mc:document_abstract']"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "POST /session/c18eb4dda5f1874531db9232e11b35f5/element HTTP/1.1" 404 1149
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+INFO:root:Correcto, no se visualiza la metadata
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:8318/session/c18eb4dda5f1874531db9232e11b35f5 {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8318 "DELETE /session/c18eb4dda5f1874531db9232e11b35f5 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se visualiza toda la metadata

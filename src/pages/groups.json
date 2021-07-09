@@ -1,0 +1,83 @@
+{
+
+  "titulo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h3[contains(text(),'Usuarios y grupos')]"
+  },
+
+  "Adminsitracion de usuarios": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@aria-controls='simple-tabpanel-0']"
+  },
+
+  "Adminsitracion de grupos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@aria-controls='simple-tabpanel-1']"
+  },
+
+  "input buscar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='inputSearch']"
+  },
+
+  "button buscar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@type='submit']"
+  },
+
+  "crear grupo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='font-family: Poppins, sans-serif; font-size: 14px; font-weight: 500; margin-left: 10px;']"
+  },
+
+  "h3 Grupos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h3[contains(text(),'Grupos')]"
+  },
+
+  "tabla 1": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//thead"
+  },
+
+  "Agregar Usuario": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//th[contains(text(), 'Agregar Usuario')]"
+  },
+
+  "Modal crear agregar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@aria-labelledby='form-dialog-title']"
+  },
+
+  "dependencia": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='dependency']"
+  },
+
+  "perfiles": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='profile']"
+  },
+
+  "nombre de grupo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='names']"
+  },
+
+  "categories": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='tags-outlined']"
+  },
+
+  "cancelar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='background-color: rgb(225, 240, 255); color: rgb(54, 153, 255); font-family: Poppins; font-size: 12px; font-weight: 500; border: none; box-shadow: none; height: 45px; width: 120px;']"
+  },
+
+  "crear": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='font-family: Poppins; font-size: 12px; font-weight: 500; border: none; box-shadow: none; height: 45px; width: 120px;']"
+  }
+
+}

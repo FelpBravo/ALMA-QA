@@ -1,0 +1,36 @@
+{
+  "boton Comentarios": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@id='simple-tab-1']"
+  },
+  "Input": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@type='text']"
+  },
+  "Boton ingresar comentario": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/span[1]/div[1]/div[1]/form[1]/div[1]/div[2]/button[@type='button']"
+  },
+  "Adjuntar archivo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@type='file']"
+  },
+  "div mi comentario": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/span[1]/div[1]/div[2]/div[1]"
+  },
+  "boton comentar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/span[1]/div[1]/div[2]/div[1]/div[1]/span[1]"
+  },
+
+  "div sub comentario": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[3]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/span[1]/div[1]/div[2]/div[3]"
+  },
+  "Espera": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[3]/div[1]"
+  }
+
+}

@@ -1,0 +1,118 @@
+{
+
+  "titulo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h3[contains(text(),'Usuarios y grupos')]"
+  },
+
+  "Adminsitracion de usuarios": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@aria-controls='simple-tabpanel-0']"
+  },
+
+  "Adminsitracion de grupos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@aria-controls='simple-tabpanel-1']"
+  },
+
+  "input buscar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='inputSearch']"
+  },
+
+  "button buscar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@type='submit']"
+  },
+
+  "crear usuario": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='font-family: Poppins, sans-serif; font-size: 14px; font-weight: 500; margin-left: 10px;']"
+  },
+
+  "h3 Resultado usuarios": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h3[contains(text(),'Resultados usuarios')]"
+  },
+
+  "span Mostrando todos los resultado": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Mostrando todos los resultado')]"
+  },
+
+  "tabla 1": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//thead"
+  },
+
+  "Modal crear editar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@aria-labelledby='form-dialog-title']"
+  },
+
+  "nombres": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='firstName']"
+  },
+
+  "apellidos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='lastName']"
+  },
+
+  "email": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='email']"
+  },
+
+  "empresa": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='company']"
+  },
+
+  "empresaOther": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='companyOther']"
+  },
+
+  "departamento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='department']"
+  },
+
+  "departamentoOther": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='departmentOther']"
+  },
+
+  "usuario": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='id']"
+  },
+
+  "usuario editar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='usuario']"
+  },
+
+  "categories": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='tags-outlined']"
+  },
+
+  "cancelar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='background-color: rgb(225, 240, 255); color: rgb(54, 153, 255); font-family: Poppins; font-size: 12px; font-weight: 500; border: none; box-shadow: none; height: 45px; width: 120px;']"
+  },
+
+  "crear": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@style='font-family: Poppins; font-size: 12px; font-weight: 500; border: none; box-shadow: none; height: 45px; width: 120px;']"
+  },
+
+  "nextPage": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@aria-label='Go to next page']"
+  }
+
+}

@@ -1,0 +1,43 @@
+{
+
+  "Usuario": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[1]/div[1]/input[1]"
+  },
+
+  "Area Completa": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]"
+  },
+
+  "Password": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/input[1]"
+  },
+
+  "Boton acceder": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@type='submit']"
+  },
+
+  "Msj error credenciales incorrectas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[1]"
+  },
+
+  "Msk error boton OK": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'OK')]"
+  },
+
+  "CheckBox Recordar Contraseña": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[local-name()='svg']/*[local-name()='path']"
+  },
+
+  "Olvide mi contraseña": {
+    "GetFieldBy": "css",
+    "ValueToFind": "div.app-main div.app-login-container.d-flex.justify-content-center.align-items-center.animated.slideInUpTiny.animation-duration-3 div.app-login-main-content div.app-login-content div.app-login-form form:nth-child(1) div.mb-3.d-flex.align-items-center.justify-content-between:nth-child(3) > span.link-login"
+  }
+
+}

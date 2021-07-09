@@ -1,0 +1,62 @@
+{
+  "Boton panel": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//header/div[1]/button[1]"
+  },
+
+  "Panel principal": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/div[2]/div[1]"
+  },
+
+  "Panel principal maximizado": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+  },
+
+  "Panel de inicio": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[1]"
+  },
+
+  "Gestion documentos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[2]"
+  },
+
+  "Creacion documentos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[3]"
+  },
+
+  "Carga documentos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[4]"
+  },
+
+  "Etiquetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[5]"
+  },
+
+  "Administracion": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[6]/div[1]"
+  },
+
+  "Usuarios y grupos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[1]/div[1]/div[2]"
+  },
+
+  "Directorios": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[1]/div[1]/div[1]"
+  },
+
+  "Permisos de grupos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/nav[1]/div[1]/div[2]/div[6]/div[2]/div[1]/div[1]/div[1]/div[3]"
+  }
+
+}

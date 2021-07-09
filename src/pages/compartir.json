@@ -1,0 +1,93 @@
+{
+
+  "Ingresar a compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody/tr[1]/td[8]/div[1]/*[5]"
+  },
+
+  "Compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/ul[1]/li[3]/span[1]"
+  },
+
+  "Todo el campo compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@role='dialog']"
+  },
+
+  "Campo fecha": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='expirationDate']"
+  },
+
+  "Campo password": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='password']"
+  },
+
+  "checkbox": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@type='checkbox']"
+  },
+
+  "Boton crear": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[2][@type='button']"
+  },
+
+  "Boton aceptar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Aceptar')]"
+  },
+
+  "Nombre documento en compartir": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@role='dialog']"
+  },
+
+  "Nombre documento en enlace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h5[@class='makeStyles-description-5']"
+  },
+
+  "Campo password enlace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='password']"
+  },
+
+  "Boton enviar al ingresar password": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[2]/div[3]/div[1]/div[3]/button[1]"
+  },
+
+  "Boton descargar documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@type='button']"
+  },
+
+  "nombre documento en enlace descarga": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+
+  "Enlace": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@select='true']"
+  },
+
+  "Msj Error": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[5]"
+  },
+
+  "Boton cancelar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Cancelar')]"
+  },
+
+  "Boton cancelar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//span[contains(text(),'Cancelar')]"
+  }
+
+}

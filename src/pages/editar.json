@@ -1,0 +1,162 @@
+{
+
+  "titulo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h3[contains(text(),'Edición Documento')]"
+  },
+
+  "Boton carpetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@class='MuiButtonBase-root MuiFab-root MuiFab-primary']"
+  },
+
+  "Carpeta actual": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body[1]/div[1]/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/p[1]"
+  },
+
+  "Carpetas del selector": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[3]/div[3]/div[1]/div[2]/div[2]/div[1]/ul[1]"
+  },
+
+  "Boton cancelar selector": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[3]/div[3]/div[1]/div[3]/button[1]"
+  },
+
+  "Campo almaDoc": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:alma_doc_number']"
+  },
+
+  "Campo projectCode": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:project_code']"
+  },
+
+  "Campo date": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='date-picker-dialog']"
+  },
+
+  "Campo modifiedBy": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:modified_by']"
+  },
+
+  "Campo org": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:organization']"
+  },
+
+  "Campo ownerName": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:owner_name']"
+  },
+
+  "Campo subject": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:subject']"
+  },
+
+  "Campo fielType": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:file_type']"
+  },
+
+  "Campo author": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:author']"
+  },
+  "Campo docStatus": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:documentation_status']"
+  },
+
+  "Campo control board": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:ccb']"
+  },
+
+  "Campo system": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:system_subsystem']"
+  },
+
+  "Campo secMode": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:security_mode']"
+  },
+
+  "Campo releaseBy": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:released_by']"
+  },
+
+  "Campo docId": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:doc_id']"
+  },
+
+  "Campo forumId": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:forum_id']"
+  },
+
+  "Campo docType": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@name='mc:document_type']"
+  },
+
+  "Campo approvedBy": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:approved_by']"
+  },
+
+  "Campo revBy": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:reviewed_by']"
+  },
+
+  "Campo group": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:group_area']"
+  },
+
+  "Campo docAbs": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='mc:document_abstract']"
+  },
+
+  "Etiquetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//label[@id='tagsField-label']"
+  },
+
+  "Guardar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@type='submit']"
+  },
+
+  "Boton confirmar cargar documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'OK')]"
+  },
+
+  "Regresar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'regresar')]"
+  },
+
+  "No": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'No')][@style='display: inline-block;']"
+  },
+
+  "Boton cancelar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'Cancel')]"
+  }
+
+}

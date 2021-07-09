@@ -1,0 +1,40 @@
+1625523377882	geckodriver	INFO	Listening on 127.0.0.1:1083
+1625523380874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pipe_\\AppData\\Local\\Temp\\rust_mozprofilemDrVmh"
+1625523381678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625523383407	Marionette	INFO	Listening on port 1087
+1625523384269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost:3000/static/js/main.chunk.js, line 22279: unreachable code after return statement
+JavaScript warning: http://localhost:3000/static/js/main.chunk.js, line 22279: unreachable code after return statement
+1625523390586	Marionette	INFO	Stopped listening on port 1087
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625523420594	geckodriver	INFO	Listening on 127.0.0.1:23701
+1625523423610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pipe_\\AppData\\Local\\Temp\\rust_mozprofileAs7jvz"
+1625523423954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625523425251	Marionette	INFO	Listening on port 1085
+1625523425659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost:3000/static/js/main.chunk.js, line 22279: unreachable code after return statement
+JavaScript warning: http://localhost:3000/static/js/main.chunk.js, line 22279: unreachable code after return statement
+JavaScript error: http://localhost:3000/static/js/16.chunk.js, line 3707: InternalError: too much recursion
+JavaScript error: http://localhost:3000/static/js/16.chunk.js, line 3707: InternalError: too much recursion
+1625523450933	Marionette	INFO	Stopped listening on port 1085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625523477716	geckodriver	INFO	Listening on 127.0.0.1:8632
+1625523480747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pipe_\\AppData\\Local\\Temp\\rust_mozprofileZHcnhp"
+1625523481109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625523482469	Marionette	INFO	Listening on port 1076
+1625523482796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost:3000/static/js/main.chunk.js, line 22279: unreachable code after return statement
+JavaScript warning: http://localhost:3000/static/js/main.chunk.js, line 22279: unreachable code after return statement
+JavaScript error: http://localhost:3000/static/js/16.chunk.js, line 3707: InternalError: too much recursion
+JavaScript error: http://localhost:3000/static/js/16.chunk.js, line 3707: InternalError: too much recursion
+1625523508092	Marionette	INFO	Stopped listening on port 1076
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

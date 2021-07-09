@@ -1,0 +1,28 @@
+{
+
+  "documentos adjuntos": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@id='simple-tab-2']"
+  },
+
+  "informacion general": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@id='simple-tab-0']"
+  },
+
+  "comentarios": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@id='simple-tab-1']"
+  },
+
+  "adjuntar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='contained-button-file']"
+  },
+
+  "imagen documento": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//object"
+  }
+
+}

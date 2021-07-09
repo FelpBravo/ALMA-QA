@@ -1,0 +1,28 @@
+{
+
+  "descargar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody/tr[1]/td[8]/div[1]/*[5]"
+  },
+
+  "h2 Descargar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h2[@id='swal2-title']"
+  },
+
+  "div pregunta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//div[@id='swal2-content']"
+  },
+
+  "OK": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'OK')]"
+  },
+
+  "Cancel": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[contains(text(),'Cancel')]"
+  }
+
+}

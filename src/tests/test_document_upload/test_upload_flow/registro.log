@@ -1,0 +1,120 @@
+INFO:root:Se relleno correctamente la metadata
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F280253790>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/d30449cd6504a97a266b4e2280b7df41
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2802A0880>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/d30449cd6504a97a266b4e2280b7df41
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2802A0C10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/d30449cd6504a97a266b4e2280b7df41
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020DAC6F3790>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/128e92f4d5a908f4adc7632bd6165a4b/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020DAC6D6C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/128e92f4d5a908f4adc7632bd6165a4b/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020DAC73ED60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/128e92f4d5a908f4adc7632bd6165a4b/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020DAC75EEE0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/128e92f4d5a908f4adc7632bd6165a4b
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020DAC76B0A0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/128e92f4d5a908f4adc7632bd6165a4b
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020DAC76B1F0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/128e92f4d5a908f4adc7632bd6165a4b
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA07019190>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/5a89a9a7f8386f3a3b59059ec3f0d8ba
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA07060910>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/5a89a9a7f8386f3a3b59059ec3f0d8ba
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA07060CA0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/5a89a9a7f8386f3a3b59059ec3f0d8ba
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430AAA9190>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/11793057542a8269439c825de0060775
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430AAF0910>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/11793057542a8269439c825de0060775
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430AAF0CA0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/11793057542a8269439c825de0060775
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026353818190>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/6e1d5f6c9cb14031c706408b3d49d4eb/execute/sync
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263538659D0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/6e1d5f6c9cb14031c706408b3d49d4eb/execute/sync
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026353865CD0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/6e1d5f6c9cb14031c706408b3d49d4eb/execute/sync
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002635387FF70>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/6e1d5f6c9cb14031c706408b3d49d4eb
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026353890190>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/6e1d5f6c9cb14031c706408b3d49d4eb
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263538902E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/6e1d5f6c9cb14031c706408b3d49d4eb
+INFO:root:Se relleno correctamente la metadata
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231D08A8190>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/d804202f177b0fd75d4e0ac0927fcee6/execute/sync
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231D08F5A30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/d804202f177b0fd75d4e0ac0927fcee6/execute/sync
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231D08F5D30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/d804202f177b0fd75d4e0ac0927fcee6/execute/sync
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231D0910FD0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/d804202f177b0fd75d4e0ac0927fcee6
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231D091E1F0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/d804202f177b0fd75d4e0ac0927fcee6
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231D091E340>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/d804202f177b0fd75d4e0ac0927fcee6
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata
+INFO:root:Se relleno correctamente la metadata

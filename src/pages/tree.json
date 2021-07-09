@@ -1,0 +1,13 @@
+{
+
+  "carpetas": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//p[@style='font-family: Poppins; font-size: 14px; font-weight: 400; padding: 4px 30px 8px 0px;']"
+  },
+
+  "comprobar tbody": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody/tr"
+  }
+
+}

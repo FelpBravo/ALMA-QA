@@ -1,0 +1,18 @@
+{
+
+  "grilla": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//tbody"
+  },
+
+  "Miga": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//body/div[@id='app-site']/div[1]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/nav[1]/ol[1]"
+  },
+
+  "titulo": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h3[contains(text(),'Historial de versionamiento')]"
+  }
+
+}
