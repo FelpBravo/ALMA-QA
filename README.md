@@ -12,9 +12,9 @@ El proyecto está organizado de la siguiente manera:
 
 - `src/functions/functions.py`: Este archivo contiene funciones de utilidad y métodos que se utilizan en las pruebas automatizadas.
 
-- `test.py`: Estos archivos contienen las pruebas automatizadas utilizando el framework Selenium. Se dividen en varios métodos que prueban diferentes aspectos del proceso de inicio a fin de la aplicación.
+- `/test/`: Estos archivos contienen las pruebas automatizadas utilizando el framework Selenium. Se dividen en varios métodos que prueban diferentes aspectos del proceso de inicio a fin de la aplicación.
 
-- `report/`: Esta carpeta se utiliza para almacenar los informes generados después de la ejecución de las pruebas. Los informes están en formato HTML y proporcionan una visión detallada de los resultados de las pruebas.
+- `report/`: (Privada) Esta carpeta se utiliza para almacenar los informes generados después de la ejecución de las pruebas. Los informes están en formato HTML y proporcionan una visión detallada de los resultados de las pruebas.
 
 El resultado de las pruebas se generará en la carpeta report en formato HTML para su posterior revisión.
 
